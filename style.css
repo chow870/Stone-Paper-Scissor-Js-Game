@@ -1,0 +1,39 @@
+
+body{
+    background-color: bisque;
+}
+
+#header{
+
+    background-color: darkcyan;
+    color: white;
+    height: 80px;
+    text-align: center;
+    font-size: x-large;
+}
+#pics{
+    display: flex;
+    margin-top: 50px;
+}
+
+img{
+    height: 150px;
+}
+.Result{
+    margin-top: 50px;
+    margin-left: 10px;
+    height: 100px;
+    width: 150px;
+    border-style: solid;
+}
+#Result2{
+
+    height: 120px;
+    width: 200px;
+    border-style: solid;
+    background-color: white;
+    margin-left: auto;
+    margin-top: 10px;
+    margin-right: auto;
+
+}
