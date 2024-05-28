@@ -4,5 +4,7 @@ I have used Javascript DOM to create a simple  Stone Paper Scissor game. The use
 # Some of the features are-
 1. Comp vs User
 2. User can select their choice by clicking the pics provided on the webiste.
+3. Result is declared after every round.
+
 
 
